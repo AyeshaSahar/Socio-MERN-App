@@ -20,8 +20,6 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-const CONNECTION_URL = 'mongodb+srv://Ayesha:a1b2c3d4e5xyz@cluster0.2rt6s.mongodb.net/?retryWrites=true&w=majority'
-
 const PORT = process.env.PORT|| 5000;
 
 mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
