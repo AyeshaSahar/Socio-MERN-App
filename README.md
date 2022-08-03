@@ -8,3 +8,7 @@
 - Navigate to client by "cd client" and then run "npm i".
 - Navigate to server by "cd server" and then run "npm i".
 - To start the project, run "npm start" in both folders!
+
+## **Website Link**
+
+https://socio-mern.netlify.app
