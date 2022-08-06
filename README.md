@@ -1,6 +1,6 @@
 # Socio-MERN-App
 
-- It's a social media app that allows you to create, del, edit, search and like a post!
+- It's a social media app that allows you to perform all CRUD operations!
 
 ### **For installation:**
 
